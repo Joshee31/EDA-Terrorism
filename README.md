@@ -6,4 +6,5 @@ The analysis was conducted using Python programming language and various data vi
 
 Please refer to my code for my insights and recommendations.
 
-This task was assigned to me as an intern of The Sparks Foundation's Data Science and Business Analytics program. 
+This task was assigned to me as an intern of [The Sparks Foundation](https://www.thesparksfoundationsingapore.org/)
+ Data Science and Business Analytics program. 
