@@ -8,4 +8,4 @@ Please refer to my code for my insights and recommendations.
 
 This task was assigned to me as an intern of [The Sparks Foundation](https://www.thesparksfoundationsingapore.org/) Data Science and Business Analytics program. 
 
-Link to the csv file: https://drive.google.com/file/d/1PR8cB8t9GdcfumQnAxsLhPSgFnNQP5Zy/view?usp=share_link
+Link to the csv file: http://bitly.ws/CRNL
