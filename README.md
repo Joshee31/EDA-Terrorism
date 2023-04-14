@@ -8,4 +8,4 @@ Please refer to my code for my insights and recommendations.
 
 I chose this task to showcase my talent and skills in performing EDA using Python for my internship at [The Sparks Foundation](https://www.thesparksfoundationsingapore.org/) Data Science and Business Analytics program. 
 
-Link to the csv file: http://bitly.ws/CRNL
+Link to the csv file [here](http://bitly.ws/CRNL).
